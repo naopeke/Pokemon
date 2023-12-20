@@ -1,2 +1,2 @@
 # Pokemon
-Pokemon Dictionary
+Pokemon Dictionary (Easy)
